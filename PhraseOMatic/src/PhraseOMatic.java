@@ -3,6 +3,8 @@ public class PhraseOMatic {
 	public static void main (String [] args){
 		
 		//Make 3 sets of words
+		//This is just a TEST
+		
 		String[] wordListOne ={"24/7" , "multi-tier", "30,000 foot","B-to-B",
 				"win-win","front-end","web-based",
 				"pervasive","smart","six-sigma","critical-path","dynamic"};
