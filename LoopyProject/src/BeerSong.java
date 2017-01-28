@@ -6,6 +6,7 @@ public class BeerSong {
 		int beerNum=99;
 		String word ="bottles";
 		
+		//Check
 		while (beerNum>0) {
 
 			System.out.println(beerNum + " " + word + " of beer on the wall");
