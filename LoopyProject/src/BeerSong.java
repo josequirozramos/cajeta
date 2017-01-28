@@ -2,11 +2,10 @@
 public class BeerSong {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+
 		int beerNum=99;
 		String word ="bottles";
 		
-		//Check
 		while (beerNum>0) {
 
 			System.out.println(beerNum + " " + word + " of beer on the wall");
